@@ -1,0 +1,11 @@
+{
+  "name": "ZoomRTC Virtual Meetings & Admin Console",
+  "description": "Enterprise WebRTC video conferencing with real-time streaming, encrypted chat, waiting rooms, JWT auth, and admin participant moderation dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
